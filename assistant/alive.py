@@ -4,10 +4,10 @@ Made by GODBOYX
 """
 import re
 import os
-from telethon import custom, Button, events
-from userbot import bot, asst
+from telethon.import custom, Button, events
+from userbot.import bot, asst
 from . import *
-from userbot import YOUR_NAME as ALIVE_NAME
+from userbot.import YOUR_NAME as ALIVE_NAME
 
 ver = "0.2"
 
